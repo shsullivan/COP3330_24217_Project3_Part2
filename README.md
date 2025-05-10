@@ -1,4 +1,4 @@
-# Shawn Sullivan CEN-3024C031774
+# Shawn Sullivan CEN-3024C-31774
 
 ## COP-3330C-24217 Object-Oriented Programming Spring 2025 @ Valencia College
 Programming Project 3 Part 2
